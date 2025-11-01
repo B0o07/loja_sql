@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina **Programação e Desenvolvimento de Banc
 
 ## Estrutura dos Scripts
 
-- **criarBanco.sql:** Criação do banco de dados `Loja` e suas tabelas (Estado, Município, Cliente, ContaReceber).
+- **diagrama.sql:** Criação do banco de dados `Loja` e suas tabelas (Estado, Município, Cliente, ContaReceber).
 - **inserir.sql:** Inserção de registros em todas as tabelas.
 - **consulta.sql:** Criação da view `ContasNaoPagas` para listar contas com situação = 1.
 
